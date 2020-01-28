@@ -38,7 +38,16 @@ for node in nodes:
     node_domain[node] = domain
 
 algorithm = Algorithm(node_domain)
-# result = algorithm.bt_fc_search({}, node_domain)
-result = algorithm.bt_fc_mrv({}, node_domain)
-print(result)
+print("Answer for backtracking with forward checking")
+result = algorithm.bt_fc_search({}, node_domain)
+if result is not None:
+    for key in result.keys():
+        print(result[key], end=' ')
+    print()
+else:
+    print("there is no answer")
 
+print("Answer for backtracking with forward checking and MRV")
+result = algorithm.bt_fc_mrv({}, node_domain)
+for key in result.keys():
+    print(result[key], end=' ')

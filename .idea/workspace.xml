@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c53817aa-beaf-41ae-88f5-fd6920afaa51" name="Default Changelist" comment="" />
+    <list default="true" id="c53817aa-beaf-41ae-88f5-fd6920afaa51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hexagon.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hexagon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node.py" beforeDir="false" afterPath="$PROJECT_DIR$/Node.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pentagon.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pentagon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Square.py" beforeDir="false" afterPath="$PROJECT_DIR$/Square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WnrcXpUHUm2V4Ve7pieusXiyjd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NLP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.Main">
     <configuration name="Foo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -108,45 +121,76 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1786" height="466" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1580031500001" />
-    <state x="1234" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1579865169138">
+    <state x="1234" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580097852353">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="1234" y="311" width="424" height="491" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579865169138" />
-    <state width="1831" height="386" key="GridCell.Tab.0.bottom" timestamp="1580038624908">
+    <state x="1234" y="311" width="424" height="491" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580097852353" />
+    <state width="1831" height="567" key="GridCell.Tab.0.bottom" timestamp="1580209159438">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1831" height="386" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580038624908" />
-    <state width="1831" height="386" key="GridCell.Tab.0.center" timestamp="1580038624907">
+    <state width="1831" height="567" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580209159438" />
+    <state width="1831" height="567" key="GridCell.Tab.0.center" timestamp="1580209159437">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1831" height="386" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580038624907" />
-    <state width="1831" height="386" key="GridCell.Tab.0.left" timestamp="1580038624907">
+    <state width="1831" height="567" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580209159437" />
+    <state width="1831" height="567" key="GridCell.Tab.0.left" timestamp="1580209159437">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1831" height="386" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580038624907" />
-    <state width="1831" height="386" key="GridCell.Tab.0.right" timestamp="1580038624908">
+    <state width="1831" height="567" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580209159437" />
+    <state width="1831" height="567" key="GridCell.Tab.0.right" timestamp="1580209159438">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1831" height="386" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580038624908" />
-    <state width="905" height="291" key="GridCell.Tab.1.bottom" timestamp="1580038624904">
+    <state width="1831" height="567" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580209159438" />
+    <state width="1831" height="567" key="GridCell.Tab.1.bottom" timestamp="1580209159439">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="905" height="291" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580038624904" />
-    <state width="905" height="291" key="GridCell.Tab.1.center" timestamp="1580038624903">
+    <state width="1831" height="567" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580209159439" />
+    <state width="1831" height="567" key="GridCell.Tab.1.center" timestamp="1580209159438">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="905" height="291" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580038624903" />
-    <state width="905" height="291" key="GridCell.Tab.1.left" timestamp="1580038624903">
+    <state width="1831" height="567" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580209159438" />
+    <state width="1831" height="567" key="GridCell.Tab.1.left" timestamp="1580209159438">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="905" height="291" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580038624903" />
-    <state width="905" height="291" key="GridCell.Tab.1.right" timestamp="1580038624903">
+    <state width="1831" height="567" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580209159438" />
+    <state width="1831" height="567" key="GridCell.Tab.1.right" timestamp="1580209159438">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="905" height="291" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580038624903" />
-    <state x="1122" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1580017118607">
+    <state width="1831" height="567" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580209159438" />
+    <state x="1122" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1580097836306">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="1122" y="381" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580017118607" />
+    <state x="1122" y="381" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580097836306" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pentagon.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pentagon.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Hexagon.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
